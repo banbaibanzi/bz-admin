@@ -1,0 +1,1 @@
+import{_ as e}from"./CommonPage-CxSF6Dqn.js";import{_ as t}from"./index-C1FWzoLn.js";import{l as n,T as _,S as r,p as a}from"./vue-3R-0LehK.js";import"./element-BKD3LWCk.js";const c={},s=a("div",null,"信息分类page",-1);function m(p,f){const o=e;return n(),_(o,null,{default:r(()=>[s]),_:1})}const g=t(c,[["render",m]]);export{g as default};

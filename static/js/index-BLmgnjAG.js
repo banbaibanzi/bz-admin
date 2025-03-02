@@ -1,1 +1,0 @@
-import{_ as e}from"./index-CYfdo8ub.js";import{F as t}from"./vue-3R-0LehK.js";import"./element-BKD3LWCk.js";const o={};function n(r,s){return t(r.$slots,"default")}const a=e(o,[["render",n]]);export{a as default};

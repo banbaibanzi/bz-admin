@@ -1,0 +1,1 @@
+import{h as o}from"./index-C1FWzoLn.js";function r(t={}){return o.request({method:t.method,url:t.url,data:t.data})}function u(t={}){return o.request({method:"post",url:"/upload",data:t})}export{r as C,u as U};

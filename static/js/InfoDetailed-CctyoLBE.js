@@ -1,1 +1,0 @@
-import{_ as e}from"./CommonPage-Cqz-r_z4.js";import{_ as t}from"./index-CYfdo8ub.js";import{l as n,T as _,S as a,p as c}from"./vue-3R-0LehK.js";import"./element-BKD3LWCk.js";const r={},s=c("div",null,"信息详情page",-1);function m(p,i){const o=e;return n(),_(o,null,{default:a(()=>[s]),_:1})}const x=t(r,[["render",m]]);export{x as default};
